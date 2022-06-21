@@ -24,5 +24,32 @@ Basics
 	days = (days % 365) % 7;	days  = days - ((years * 365) + (weeks * 7));
 11. Write a program to enter any number and calculate its square root.
 12. Write a program to enter two angles of a triangle and find the third angle.
-
 13. Write a program to enter base and height of a triangle and find its area.
+	1/2*(b*h)
+14. Write a program to calculate area of an equilateral triangle.
+	(Math.sqrt(3) / 4) * (a * a)
+15. Write a program to enter marks of five subjects and calculate total, average and percentage.
+	total = s1 + s2 + s3 + s4 + s5
+	avg = total/5
+	percentage = (total/500)*100
+16. Write a program to enter P, T, R and calculate Simple Interest.
+	SI=(P*T*R)/100
+
+17. Write a program to enter P, T, R and calculate Compound Interest.
+	CI = principle * pow((1 + rate / 100), time)
+
+
+
+IF --Else Assignment
+---------------
+1.   Write a program to find maximum between two numbers.
+2.   Write a program to find maximum between three numbers.
+3.   Write a program to check whether a number is negative, positive or zero.
+4.   Write a program to check whether a number is divisible by 5 and 11 or not.
+
+
+
+
+
+
+
