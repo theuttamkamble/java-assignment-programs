@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class AreaOfRectangle {
+public class _5AreaOfRectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int length;

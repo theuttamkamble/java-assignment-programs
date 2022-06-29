@@ -2,7 +2,7 @@
 // (fahrenheit = (celsius * 9 / 5) + 32)
 
 import java.util.Scanner;
-public class CelsiusToFahrenheit {
+public class _8CelsiusToFahrenheit {
     public static void main(String[] args) {
         double celsius;
         double fahrenheit;

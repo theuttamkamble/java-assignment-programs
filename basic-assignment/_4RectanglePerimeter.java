@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class RectanglePerimeter {
+public class _4RectanglePerimeter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class CentimeterToMeter {
+public class _7CentimeterToMeter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter length in centimetre:");

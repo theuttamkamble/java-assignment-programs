@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InputOutput {
+public class _1InputOutput {
 	public static void main(String[] arg) {
 		byte b;
 		short s;

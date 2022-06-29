@@ -2,7 +2,7 @@
 // (1m=100000cm)
 
 import java.util.Scanner;
-public class CentimeterToKiloMetre {
+public class _7CentimeterToKiloMetre {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter length in Centimeter");

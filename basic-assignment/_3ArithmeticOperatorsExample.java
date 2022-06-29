@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ArithmeticOperatorsExample {
+public class _3ArithmeticOperatorsExample {
     public static void main(String[] args) {
         int num1;
         int num2;

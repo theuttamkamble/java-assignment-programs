@@ -1,7 +1,7 @@
 // Write a program to enter P, T, R and calculate Simple Interest.
 
 import java.util.Scanner;
-public class CalculateSimpleInterest {
+public class _16CalculateSimpleInterest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

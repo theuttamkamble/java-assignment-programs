@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class SumOfTwoNum {
+public class _2SumOfTwoNum {
     public static void main(String[] args) {
         int num1;
         int num2;

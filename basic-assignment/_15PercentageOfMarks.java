@@ -1,7 +1,7 @@
 // Write a program to enter marks of five subjects and calculate total, average and percentage.
 
 import java.util.Scanner;
-public class PercentageOfMarks {
+public class _15PercentageOfMarks {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int eng, math, chem, comp, bio;

@@ -1,7 +1,7 @@
 // Write a program to enter two angles of a triangle and find the third angle.
 
 import java.util.Scanner;
-public class FindThirdAngleOfTriangle {
+public class _12FindThirdAngleOfTriangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float firstangle;
@@ -31,5 +31,6 @@ public class FindThirdAngleOfTriangle {
         thirdangle = 180 - (firstangle + secondangle);
         System.out.println("Third angle size is "+thirdangle);
         
+        sc.close();
     }
 }

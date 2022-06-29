@@ -1,7 +1,7 @@
 // Area of Equilateral trangle
 
 import java.util.Scanner;
-public class AreaOfEquilateralTrangle {
+public class _14AreaOfEquilateralTrangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float a;

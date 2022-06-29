@@ -1,7 +1,7 @@
 // Write a program to enter base and height of a triangle and find its area.
 
 import java.util.Scanner;
-public class AreaOfTrangle {
+public class _13AreaOfTrangle {
     public static void main(String[] args) {
         int base;
         int height;

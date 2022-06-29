@@ -1,7 +1,7 @@
 // Write a program to find maximum between two numbers.
 
 import java.util.Scanner;
-public class MaximumBetweenTwoNumbers {
+public class _1MaximumBetweenTwoNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num1, num2;

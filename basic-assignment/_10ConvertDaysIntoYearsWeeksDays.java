@@ -4,7 +4,7 @@
 //	days  = days - ((years * 365) + (weeks * 7));
 
 import java.util.Scanner;
-public class ConvertDaysIntoYearsWeeksDays {
+public class _10ConvertDaysIntoYearsWeeksDays {
     public static void main(String[] args) {
         int days;
         int years;
