@@ -66,14 +66,22 @@ Conditional Operator or ternary operator
 5.  Write a program to check whether character is an alphabet or not using conditional operator
 
 
-
-
-
-
-
-
-
-
+Loop Assignment
+---------------
+1. Write a program to print all natural numbers from 1 to n. - using while loop
+2. Write a program to print all natural numbers in reverse (from n to 1). - using while loop
+3. Write a program to print all alphabets from a to z. - using while loop
+4. Write a program to print all even numbers between 1 to 100. - using while loop
+5. Write a program to print all odd number between 1 to 100.
+6. Write a program to find sum of all natural numbers between 1 to n.
+7. Write a program to find sum of all even numbers between 1 to n.
+8. Write a program to find sum of all odd numbers between 1 to n.
+9. Write a program to print multiplication table of any number.
+10. Write a program to count number of digits in any number.
+11. Write a program to calculate sum of digits of any number.
+12. Write a program to calculate product of digits of any number.
+13. Write a program to enter any number and print its reverse.
+14. Write a program to enter any number and check whether the number is palindrome or not.
 
 
 
