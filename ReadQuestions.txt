@@ -1,0 +1,94 @@
+Basics
+---------------
+1. Write a program to perform input/output of all basic data types.
+2. Write a program to enter two numbers and find their sum.
+3. Write a program to enter two numbers and perform all arithmetic operations.
+4. Write a program to enter length and breadth of a rectangle and find its perimeter. 
+	perimeter = 2 * length + width
+5. Write a program to enter length and breadth of a rectangle and find its area.
+	area = length * breadth;
+6. Write a program to enter radius of a circle and find its diameter, circumference and area.
+	diameter=2*radius,  
+	circumference=2*pi*radius,  
+	area=pi*radius*radius.
+7. Write a program to enter length in centimetre and convert it into meter and kilometer.
+	1m=100cm, 	cm/100
+	1km=100000cm 	cm/100000
+8. Write a program to enter temperature in Celsius and convert it into Fahrenheit.
+	fahrenheit = (celsius * 9 / 5) + 32.
+9. Write a program to enter temperature in Fahrenheit and convert to Celsius.
+	celsius = (fahrenheit - 32) * 5 / 9
+10. Write a C program to convert days into years, weeks and days.
+	years = (days / 365);   // Ignoring leap year
+	weeks = (days % 365) / 7;
+	days = (days % 365) % 7;	days  = days - ((years * 365) + (weeks * 7));
+11. Write a program to enter any number and calculate its square root.
+12. Write a program to enter two angles of a triangle and find the third angle.
+13. Write a program to enter base and height of a triangle and find its area.
+	1/2*(b*h)
+14. Write a program to calculate area of an equilateral triangle.
+	(Math.sqrt(3) / 4) * (a * a)
+15. Write a program to enter marks of five subjects and calculate total, average and percentage.
+	total = s1 + s2 + s3 + s4 + s5
+	avg = total/5
+	percentage = (total/500)*100
+16. Write a program to enter P, T, R and calculate Simple Interest.
+	SI=(P*T*R)/100
+
+17. Write a program to enter P, T, R and calculate Compound Interest.
+	CI = principle * pow((1 + rate / 100), time)
+
+
+
+IF --Else Assignment
+---------------
+1.   Write a program to find maximum between two numbers.
+2.   Write a program to find maximum between three numbers.
+3.   Write a program to check whether a number is negative, positive or zero.
+4.   Write a program to check whether a number is divisible by 5 and 11 or not.
+5.   Write a program to check whether a number is even or odd.
+6.   Write a program to check whether a year is leap year or not.
+7.   Write a program to check whether a character is alphabet or not.
+8.   Write a program to input any alphabet and check whether it is vowel or consonant.
+9.   Write a program to input any character and check whether it is alphabet, digit or special character.
+10.   Write a program to check whether a character is uppercase or lowercase alphabet.
+11.   Write a program to input week number and print week day.
+12.   Write a program to input month number and print number of days in that month.
+
+
+
+Conditional Operator or ternary operator
+---------------
+1.  Write a program to find maximum between two numbers using conditional operator.
+2.  Write a program to find maximum between three numbers using conditional operator.
+3.  Write a program to check whether a number is even or odd using conditional operator.
+4.  Write a program to check whether year is leap year or not using conditional operator.
+5.  Write a program to check whether character is an alphabet or not using conditional operator
+
+
+Loop Assignment
+---------------
+1. Write a program to print all natural numbers from 1 to n. - using while loop
+2. Write a program to print all natural numbers in reverse (from n to 1). - using while loop
+3. Write a program to print all alphabets from a to z. - using while loop
+4. Write a program to print all even numbers between 1 to 100. - using while loop
+5. Write a program to print all odd number between 1 to 100.
+6. Write a program to find sum of all natural numbers between 1 to n.
+7. Write a program to find sum of all even numbers between 1 to n.
+8. Write a program to find sum of all odd numbers between 1 to n.
+9. Write a program to print multiplication table of any number.
+10. Write a program to count number of digits in any number.
+11. Write a program to calculate sum of digits of any number.
+12. Write a program to calculate product of digits of any number.
+13. Write a program to enter any number and print its reverse.
+14. Write a program to enter any number and check whether the number is palindrome or not.
+
+
+
+
+
+
+
+
+
+
